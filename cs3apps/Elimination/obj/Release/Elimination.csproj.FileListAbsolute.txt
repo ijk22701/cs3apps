@@ -1,0 +1,6 @@
+C:\Users\ijk22\source\repos\cs3apps\Elimination\bin\Release\Elimination.exe.config
+C:\Users\ijk22\source\repos\cs3apps\Elimination\bin\Release\Elimination.exe
+C:\Users\ijk22\source\repos\cs3apps\Elimination\bin\Release\Elimination.pdb
+C:\Users\ijk22\source\repos\cs3apps\Elimination\obj\Release\Elimination.csproj.CoreCompileInputs.cache
+C:\Users\ijk22\source\repos\cs3apps\Elimination\obj\Release\Elimination.exe
+C:\Users\ijk22\source\repos\cs3apps\Elimination\obj\Release\Elimination.pdb

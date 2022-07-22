@@ -1,0 +1,14 @@
+C:\Users\ijk22\source\repos\cs3apps\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\ijk22\source\repos\cs3apps\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\ijk22\source\repos\cs3apps\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\ijk22\source\repos\cs3apps\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\ijk22\source\repos\cs3apps\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\ijk22\source\repos\cs3apps\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\Coder Bruh\c#\cs3apps\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\Coder Bruh\c#\cs3apps\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Coder Bruh\c#\cs3apps\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Coder Bruh\c#\cs3apps\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Coder Bruh\c#\cs3apps\TicTacToe\obj\Debug\TicTacToe.exe
+D:\Coder Bruh\c#\cs3apps\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\Coder Bruh\c#\cs3apps\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\Coder Bruh\c#\cs3apps\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache

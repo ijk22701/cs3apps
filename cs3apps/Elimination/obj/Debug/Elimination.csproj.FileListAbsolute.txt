@@ -1,0 +1,14 @@
+C:\Users\ijk22\source\repos\cs3apps\Elimination\bin\Debug\Elimination.exe.config
+C:\Users\ijk22\source\repos\cs3apps\Elimination\bin\Debug\Elimination.exe
+C:\Users\ijk22\source\repos\cs3apps\Elimination\bin\Debug\Elimination.pdb
+C:\Users\ijk22\source\repos\cs3apps\Elimination\obj\Debug\Elimination.csproj.CoreCompileInputs.cache
+C:\Users\ijk22\source\repos\cs3apps\Elimination\obj\Debug\Elimination.exe
+C:\Users\ijk22\source\repos\cs3apps\Elimination\obj\Debug\Elimination.pdb
+D:\Coder Bruh\c#\cs3apps\Elimination\bin\Debug\Elimination.exe.config
+D:\Coder Bruh\c#\cs3apps\Elimination\bin\Debug\Elimination.exe
+D:\Coder Bruh\c#\cs3apps\Elimination\bin\Debug\Elimination.pdb
+D:\Coder Bruh\c#\cs3apps\Elimination\obj\Debug\Elimination.csproj.CoreCompileInputs.cache
+D:\Coder Bruh\c#\cs3apps\Elimination\obj\Debug\Elimination.exe
+D:\Coder Bruh\c#\cs3apps\Elimination\obj\Debug\Elimination.pdb
+D:\Coder Bruh\c#\cs3apps\Elimination\obj\Debug\Elimination.csproj.AssemblyReference.cache
+D:\Coder Bruh\c#\cs3apps\Elimination\obj\Debug\Elimination.csproj.SuggestedBindingRedirects.cache

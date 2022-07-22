@@ -1,0 +1,6 @@
+C:\Users\ijk22\source\repos\cs3apps\Airline\bin\Release\Airline.exe.config
+C:\Users\ijk22\source\repos\cs3apps\Airline\bin\Release\Airline.exe
+C:\Users\ijk22\source\repos\cs3apps\Airline\bin\Release\Airline.pdb
+C:\Users\ijk22\source\repos\cs3apps\Airline\obj\Release\Airline.csproj.CoreCompileInputs.cache
+C:\Users\ijk22\source\repos\cs3apps\Airline\obj\Release\Airline.exe
+C:\Users\ijk22\source\repos\cs3apps\Airline\obj\Release\Airline.pdb
